@@ -1,6 +1,5 @@
 {
     "name": "hotrestaurant",
-    "homepage": "https://plsenh.github.io/hotrestaurant/",
     "version": "1.0.0",
     "description": "",
     "main": "server.js",
